@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @JED5601
-- 👀 I’m interested in ARDUINO
+- 👋 Hi, I’m coding.exe
+- 👀 I’m interested in HTML and CSS
